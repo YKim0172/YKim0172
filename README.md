@@ -1,7 +1,7 @@
 # Hi there!👋
 
 I'm Yu Hyun<br><br>
-Junior @ The University of Michigan Ann Arbor<br>
+Student @ The University of Michigan Ann Arbor<br>
 Double majoring in Computer Science & Math<br>
 Interested in SWE and ML/AI intern roles
 
